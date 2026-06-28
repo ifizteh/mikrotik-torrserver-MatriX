@@ -31,7 +31,7 @@
 
 ---
 
-## 1. Подготовка образа на ПК
+## 1. Подготовка образа на ПК (или скачать [готовый](https://github.com/Skaystk/mikrotik-torrserver-MatriX/releases/tag/Mikrotik-torrserver) от @Skaystk)
 
 На macOS/Linux с установленным `skopeo` сохраняем multi-arch образ TorrServer в локальный TAR под архитектуру роутера (arm64 для hAP ax3):
 
